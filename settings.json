@@ -1,0 +1,7 @@
+{
+    "acc_file": "accounts.json",
+    "lambda_format": "lambda dict_array: (dict(email=a.get('email'), password=a.get('password'), device=a.get('device'), sid=a.get('sid')) for a in dict_array)",
+    "language": "en",
+    "proxy": null,
+    "community_link": "community link here"
+}

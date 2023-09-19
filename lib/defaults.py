@@ -1,0 +1,7 @@
+accept_encoding = 'gzip'
+accept_language = 'en-US'
+connection = 'Upgrade'
+user_agent = 'Apple iPhone12,1 iOS v15.5 Main/3.12.2'
+prefix = '19'
+sig_key = 'dfa5ed192dda6e88a12fe12130dc6206b1251e44'
+dev_key = 'e7309ecc0953c6fa60005b2765f99dbbc965c8e9'

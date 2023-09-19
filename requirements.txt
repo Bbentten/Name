@@ -1,0 +1,4 @@
+yarl
+requests
+json_minify
+pytz
